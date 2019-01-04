@@ -4,3 +4,4 @@
 这是master上面的内容，这是branch1上添加的内容
 version1
 V1
+version2
